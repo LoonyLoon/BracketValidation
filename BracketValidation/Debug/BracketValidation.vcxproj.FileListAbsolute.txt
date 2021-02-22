@@ -1,0 +1,2 @@
+D:\develop\VS_projects\BracketValidation\BracketValidation\Debug\BracketValidation.exe
+D:\develop\VS_projects\BracketValidation\BracketValidation\Debug\BracketValidation.pdb
