@@ -1,2 +1,3 @@
 ﻿  main.cpp
+D:\develop\VS_projects\BracketValidation\BracketValidation\main.cpp(23,21): warning C4018: <=: несоответствие типов со знаком и без знака
   BracketValidation.vcxproj -> D:\develop\VS_projects\BracketValidation\BracketValidation\Debug\BracketValidation.exe
